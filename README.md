@@ -1,0 +1,1 @@
+To build the pdf, run `bash build_pdf.sh` in the top level directory
